@@ -5,9 +5,9 @@
 ### Обо мне:
 - 🔭 **Ищу работу, где я могу использовать и применять свои навыки и знания** 
 
-- 👨‍💻 [Телеграмм](t.me/EvgeniyaRozh)
+- 👨‍💻 Телеграмм: t.me/EvgeniyaRozh
 
-- 📫 Почта: **evggorlova@yandex.ru**
+- 📫 Почта: **evggorlova@yandex.ru** 
 
 
 
